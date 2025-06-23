@@ -31,7 +31,7 @@ export function LoginForm() {
             <div className="inline-flex items-center justify-center w-16 h-16 bg-blue-600 rounded-2xl mb-4">
               <Car className="w-8 h-8 text-white" />
             </div>
-            <h1 className="text-2xl font-bold text-gray-900 mb-2">Nyabuna Admin</h1>
+            <h1 className="text-2xl font-bold text-gray-900 mb-2">Nyabona Admin</h1>
             <p className="text-gray-600">Sign in to access the admin dashboard</p>
           </div>
 
